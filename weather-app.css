@@ -1,0 +1,45 @@
+h1 {
+  color: white
+}
+body {
+  background-color: #8df889;
+  opacity: 0.8;
+}
+.m{
+  text-align: center;
+  font-family: Verdana;
+  font-size: 30px;
+  display: inline-block;
+  width: 100%
+
+
+}
+button {
+  background-color: #63b884;
+  color: white;
+  font-size: 50px;
+  position:center;
+  border-radius: 15px;
+  border-color: transparent;
+
+}
+
+img {
+  width: 15%;
+  position: center;
+}
+
+#location {
+   font-size: 10px;
+   color: gray;
+}
+#oras{
+   font-size: 60px;
+    color: #157d3d;
+}
+
+
+#weather{
+   font-size: 40px;
+    color: #ceedda;
+}
