@@ -1,4 +1,4 @@
-# the-weather
+# The-Weather
 
 Aplicatie simpla care afiseaza vremea la locatia utilizatorului.
 
