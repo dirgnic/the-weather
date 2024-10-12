@@ -9,7 +9,7 @@ https://www.theweatherapp.tk/weather-app.html
 
 ## Cum functioneaza?
 
-Aplicatia foloseste API-ul Geolocation pentru a determina locatia dumneavoasta si FreeCodeCamp Weather API pentru a determina vremea la coordonatele respective. 
+Aplicatia foloseste API-ul Geolocation pentru a determina locatia si FreeCodeCamp Weather API pentru a determina vremea la coordonatele respective. 
 
 
 
