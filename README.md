@@ -1,6 +1,6 @@
 # the-weather
 
-Aceasa aplicatie afiseaza vremea la locatia utilizatorului.
+Aplicatie simpla care afiseaza vremea la locatia utilizatorului.
 
 ## Site
 
